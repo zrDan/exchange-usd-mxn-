@@ -1,3 +1,5 @@
 # exchange-usd-mxn
 
-URL: https://ecosystem-backend.herokuapp.com
+FRONTEND URL:https://aokiweb.herokuapp.com/.
+
+BACKEND URL: https://ecosystem-backend.herokuapp.com.
